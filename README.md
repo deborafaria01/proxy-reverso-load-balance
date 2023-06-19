@@ -1,4 +1,4 @@
-# Load Balance
+# > Load Balance
 
 Load balancing refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a server farm or server pool.
 
@@ -15,7 +15,7 @@ In this manner, a load balancer performs the following functions:
 <h1 align="center"><img src = "https://github.com/deborafaria01/proxy-reverso-load-balance/blob/main/load_balance.png"></h1>
 
 
-# Reverse Proxy
+# > Reverse Proxy
 
 A reverse proxy accepts a request from a client, forwards it to a server that can fulfill it, and returns the server’s response to the client.
 
