@@ -12,10 +12,14 @@ In this manner, a load balancer performs the following functions:
 * Ensures high availability and reliability by sending requests only to servers that are online
 * Provides the flexibility to add or subtract servers as demand dictates
 
+<h1 align="center"><img src = "https://github.com/deborafaria01/proxy-reverso-load-balance/blob/main/load_balance.png"></h1>
+
+
 # Reverse Proxy
 
 A reverse proxy accepts a request from a client, forwards it to a server that can fulfill it, and returns the server’s response to the client.
 
+<h1 align="center"><img src = "https://github.com/deborafaria01/proxy-reverso-load-balance/blob/main/reverse_proxy.png"></h1>
 
 
   
